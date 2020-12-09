@@ -6,3 +6,12 @@ p {
     text-align: center;
     visibility: hidden;
 }
+
+div {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    padding: 10px 5px;
+}
